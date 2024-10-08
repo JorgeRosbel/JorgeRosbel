@@ -3,7 +3,7 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`,`.py`,`.ai`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **react**, **python**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/rosbeldev](https://twitter.com/rosbeldev)
+  
 
 
 
