@@ -8,7 +8,7 @@
   <a href="#sobre-mí"><img src="https://img.shields.io/badge/About–Me-blue" alt="Sobre mí" /></a>
   <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech–Stack-lightgrey" alt="Tech Stack" /></a>
   <a href="#proyectos-destacados"><img src="https://img.shields.io/badge/Proyectos–Destacados-orange" alt="Proyectos Destacados" /></a>
-  <a href="https://github.com/jorge?tab=followers"><img src="https://img.shields.io/github/followers/jorge.svg?style=social" alt="Follow Jorge" /></a>
+  <a href="https://github.com/JorgeRosbel?tab=followers"><img src="https://img.shields.io/github/followers/JorgeRosbel.svg?style=social" alt="Follow Jorge" /></a>
 </p>
 
 ---
