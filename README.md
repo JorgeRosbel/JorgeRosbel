@@ -45,6 +45,12 @@
 ---
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=JorgeRosbel&show_icons=true&theme=vue" alt="Estadísticas de GitHub" />
+ <img src="https://github-readme-stats.vercel.app/api?username=JorgeRosbel&show_icons=true&theme=vue&count_private=true&hide=stars,prs" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRosbel&layout=compact&theme=vue" alt="Lenguajes más usados" />
 </p>
+
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeRosbel&show_icons=true&theme=vue&hide_title=true&hide_border=true&include_all_commits=true)
+
