@@ -45,6 +45,16 @@
 
 
 
+## 🔧 Paquetes NPM desarrollados por mí
+
+| Paquete                                                                                       | Descripción                                                                                                                                                         |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [@primarix/easy-consent](https://www.npmjs.com/package/@primarix/easy-consent)                | Implementa el Consent Mode para servicios como Google Analytics y Google Ads, permitiendo una gestión sencilla y configurable de permisos de cookies (analítica, publicidad, funcionalidad, personalización y más). |
+| [http-sentinel](https://www.npmjs.com/package/http-sentinel)                                  | Biblioteca en TypeScript que ofrece una colección completa de clases de error HTTP y utilidades para el manejo de errores HTTP en tus aplicaciones.                 |
+
+
+
+
 
 
 
