@@ -36,12 +36,13 @@
 
 ## 🔗 Proyectos Destacados
 
-| Proyecto                                      | Descripción                                                                         |
-|-----------------------------------------------|-------------------------------------------------------------------------------------|
-| [Grade Manager](https://developer.neuswebs.com/)     | Sistema para gestión de calificaciones estudiantiles con interfaz intuitiva y herramientas de análisis de rendimiento. |
-| [NeusGen Chat GPT](https://neusgen.com/)      | Integración ChatGPT diseñada para apoyar el estudio individual con una interfaz amigable. |
-| [Previewtool](https://previewtool.streampng.com/)| Herramienta para previsualizar emotes y badges antes de tu stream.                  |
-| [Emoteshowcase](https://emoteshowcase.com/) Herramienta para renderizar,reescalar, analizar contraste y simular chats para emotes y emblemas |
+| Proyecto                                      | Descripción                                                                                                              |
+|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| [Grade Manager](https://developer.neuswebs.com/)     | Sistema para gestión de calificaciones estudiantiles con interfaz intuitiva y herramientas de análisis de rendimiento.   |
+| [NeusGen Chat GPT](https://neusgen.com/)      | Integración ChatGPT diseñada para apoyar el estudio individual con una interfaz amigable.                                |
+| [Previewtool](https://previewtool.streampng.com/)| Herramienta para previsualizar emotes y badges antes de tu stream.                                                       |
+| [Emoteshowcase](https://emoteshowcase.com/)   | Herramienta para renderizar, reescalar, analizar contraste y simular chats para emotes y emblemas.                       |
+
 
 
 
