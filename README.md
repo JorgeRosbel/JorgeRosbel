@@ -45,6 +45,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgerosbel&show_icons=true&theme=vue" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgerosbel&layout=compact&theme=vue" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeRosbel&show_icons=true&theme=vue" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRosbel&layout=compact&theme=vue" alt="Lenguajes más usados" />
 </p>
