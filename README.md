@@ -45,6 +45,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDevl&show_icons=true&theme=vue" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeDev&show_icons=true&theme=vue" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRosbel&layout=compact&theme=vue" alt="Lenguajes más usados" />
 </p>
