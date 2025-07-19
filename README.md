@@ -1,26 +1,23 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/tu_usuario/your-banner.gif" alt="Banner animado" width="100%" />
-</p>
-
 <h1 align="center">👨‍💻 React Web Developer | Jorge</h1>
 
 <p align="center">
-  <a href="#sobre-mí"><img src="https://img.shields.io/badge/About–Me-blue" alt="Sobre mí" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech–Stack-lightgrey" alt="Tech Stack" /></a>
-  <a href="#proyectos-destacados"><img src="https://img.shields.io/badge/Proyectos–Destacados-orange" alt="Proyectos Destacados" /></a>
-  <a href="https://github.com/JorgeRosbel?tab=followers"><img src="https://img.shields.io/github/followers/JorgeRosbel.svg?style=social" alt="Follow Jorge" /></a>
+  <a href="mailto:bethatester1021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jorge-rosbel-cruz-arias-881989252/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/jorgedevreact">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
 </p>
 
----
-
-## 🌟 Sobre mí
+## 🌟 About Me
 - 🚀 **Frontend Specialist** | Transforming ideas into sleek, interactive web apps.  
-- 💡 Actualmente inmerso en **Open Source** y contribuciones de comunidad.  
-- 💬 **Pregúntame sobre**: React, UI/UX, Python, Design Thinking, Web Development.  
-- 🌱 Aprendiz de por vida, siempre explorando nuevas herramientas y tendencias.  
-- ✨ Apasionado por **user-centered design** y **scalable systems**.
-
----
+- 💡 Currently immersed in **Open Source** and community contributions.  
+- 💬 **Ask me about**: React, UI/UX, Python, Design Thinking, Web Development.  
+- 🌱 Lifelong learner, always exploring new tools and trends.  
+- ✨ Passionate about **user-centered design** and **scalable systems**.
 
 ## ⚡ Tech Stack
 <p align="left">
@@ -33,12 +30,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
 </p>
 
----
-
-
-## 📊 Estadísticas GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeRosbel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -49,7 +44,27 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeRosbel&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
+## 🌟 Open Source Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JorgeRosbel&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+<div align="center">
+
+![Contributions](https://github-contributor-stats.vercel.app/api?username=JorgeRosbel&limit=8&order_by=contributions&theme=github_dark&combine_all_yearly_contributions=true)
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JorgeRosbel&theme=github_dark" alt="Profile Summary"/>
+</p>
+
+### 📈 Contribution Highlights
+- 🔥 **Active contributor** to open source projects
+- 🤝 **Community engagement** through code reviews and discussions  
+- 📚 **Knowledge sharing** via documentation improvements
+- 🌱 **Continuous learning** by contributing to diverse tech stacks
 
 
 
