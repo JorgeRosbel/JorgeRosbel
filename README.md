@@ -54,7 +54,7 @@
 
 
 
-
+![Mis contribuciones a repos externos](https://github-contributor-stats.vercel.app/api?username=JorgeRosbel&limit=10&order_by=contributions)
 
 
 
