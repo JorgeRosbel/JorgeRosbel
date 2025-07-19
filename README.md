@@ -34,27 +34,20 @@
 
 ---
 
-## 🔗 Proyectos Destacados
+---
 
-| Proyecto                                      | Descripción                                                                                                              |
-|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| [Grade Manager](https://developer.neuswebs.com/)     | Sistema para gestión de calificaciones estudiantiles con interfaz intuitiva y herramientas de análisis de rendimiento.   |
-| [NeusGen Chat GPT](https://neusgen.com/)      | Integración ChatGPT diseñada para apoyar el estudio individual con una interfaz amigable.                                |
-| [Previewtool](https://previewtool.streampng.com/)| Herramienta para previsualizar emotes y badges antes de tu stream.                                                       |
-| [Emoteshowcase](https://emoteshowcase.com/)   | Herramienta para renderizar, reescalar, analizar contraste y simular chats para emotes y emblemas.                       |
+## 📊 Estadísticas GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeRosbel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRosbel&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeRosbel&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-## 🔧 Paquetes NPM desarrollados por mí
-
-| Paquete                                                                                       | Descripción                                                                                                                                                         |
-|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [@primarix/easy-consent](https://www.npmjs.com/package/@primarix/easy-consent)                | Implementa el Consent Mode para servicios como Google Analytics y Google Ads, permitiendo una gestión sencilla y configurable de permisos de cookies (analítica, publicidad, funcionalidad, personalización y más). |
-| [http-sentinel](https://www.npmjs.com/package/http-sentinel)                                  | Biblioteca en TypeScript que ofrece una colección completa de clases de error HTTP y utilidades para el manejo de errores HTTP en tus aplicaciones.                 |
-
-
-
-![Mis contribuciones a repos externos](https://github-contributor-stats.vercel.app/api?username=JorgeRosbel&limit=10&order_by=contributions)
+---
 
 
 
