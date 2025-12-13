@@ -1,14 +1,6 @@
 <h1 align="center">👨‍💻 Jorge Rosbel | Web Developer</h1>
 
-<p align="center">
-  <a href="mailto:jorgerosbel@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=proton&logoColor=white" alt="Email"/>
-  </a><a href="https://www.linkedin.com/in/jorge-rosbel-cruz-arias-881989252/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a><a href="https://x.com/jorgedevreact">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
+[![LinkedIn](https://iconkit.ronitghosh.site/icons?i=linkedin)](https://www.linkedin.com/in/jorge-rosbel-cruz-arias-881989252/) [![X](https://iconkit.ronitghosh.site/icons?i=x)](https://x.com/jorgedevreact) [![Email](https://iconkit.ronitghosh.site/icons?i=gmail)](mailto:jorgerosbel@proton.me)
 
 ---
 
