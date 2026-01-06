@@ -27,11 +27,4 @@
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
 </p>
 
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeRosbel&show_icons=true&theme=github_dark" height="150"/>
-</p>
-
 
