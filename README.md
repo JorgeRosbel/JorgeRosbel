@@ -41,16 +41,6 @@ Geophysical Engineer turned Web Developer — I bring systems thinking to the fr
 
 ---
 
-## 🛠️ Tech I reach for
-
-```
-TypeScript · Astro · React · TailwindCSS
-Web Components · Node.js · Python · CLI tooling
-SEO · UI/UX · Design Systems · Open Source
-```
-
----
-
 ## 🤝 Let's build something
 
 I'm open to:
