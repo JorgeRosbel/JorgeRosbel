@@ -17,29 +17,81 @@ Geophysical Engineer turned Web Developer — I bring systems thinking to the fr
 
 ## 🔥 What I ship
 
-> I don't just write code — I build tools other devs actually want to use.
+ 
+<table>
+<tr>
+<td width="50%">
+ 
+**[`gitzen`](https://github.com/JorgeRosbel/gitzen)** — AI-powered Git commit CLI  
+<sub>Tired of writing `fix stuff`? Gitzen uses AI (Gemini + more) to generate meaningful commit messages automatically. `npm install -g gitzen` and never think about commits again.</sub>
+ 
+</td>
+<td width="50%">
+ 
+**[`hybrid-astro-ui`](https://github.com/JorgeRosbel/hybrid-astro-ui)** — UI components for Astro  
+<sub>Zero-JS Astro + progressive Web Components only where interactivity matters. Not a black box — you own the code. Copy, edit, ship.</sub>
+ 
+</td>
+</tr>
+<tr>
+<td>
+ 
+**[`NovaBoost`](https://github.com/JorgeRosbel/NovaBoost)** — Astro 5 + Tailwind blog template  
+<sub>Free. SEO-optimized. JSON-LD baked in. Optional AI post generation. Launch your blog today, rank on Google tomorrow.</sub>
+ 
+</td>
+<td>
+ 
+**[`http-sentinel`](https://github.com/JorgeRosbel/http-sentinel)** — TypeScript HTTP error handling  
+<sub>A full set of typed HTTP error classes and utilities. Stop writing `if (status === 404)` everywhere. Works with Fetch, Axios, TanStack Query.</sub>
+ 
+</td>
+</tr>
+<tr>
+<td>
+ 
+**[`easy-consent`](https://github.com/JorgeRosbel/easy-consent)** — GDPR cookie consent  
+<sub>Lightweight consent manager for Google Analytics and related services. Because cookie banners shouldn't weigh 200kb.</sub>
+ 
+</td>
+<td>
+ 
+**[`xrecon`](https://github.com/JorgeRosbel/xrecon)** — OSINT CLI for web recon  
+<sub>Gather passive and active information about websites. Fast, terminal-first, and built for developers who need answers quickly.</sub>
+ 
+</td>
+</tr>
+<tr>
+<td>
+ 
+**[`astro-i18n`](https://github.com/JorgeRosbel/astro-i18n)** — i18n library for Astro  
+<sub>Simple, TypeScript-first internationalization for Astro projects. No bloat, just clean multilingual support baked into your site.</sub>
+ 
+</td>
+<td>
+ 
+**[`venvkiller`](https://github.com/JorgeRosbel/venvkiller)** — CLI to reclaim disk space  
+<sub>Finds and removes unnecessary Python virtual environments. Because your SSD doesn't need 47 forgotten `.venv` folders eating it alive.</sub>
+ 
+</td>
+</tr>
+<tr>
+<td>
+ 
+**[`EmoteShowcase`](https://emoteshowcase.com/)** — Streaming emote tool  
+<sub>Dynamic resizing and visualization of emotes and badges, live previews, batch processing and optimized export for streaming platforms.</sub>
+ 
+</td>
+<td>
+ 
+**[`Geofisik Tool`](https://tool.geofisik.com/)** — Geophysical web app  
+<sub>Monitors vertical displacements in structures over time — interactive maps, time-series charts, and automated anomaly detection.</sub>
+ 
+</td>
+</tr>
+</table>
 
-### [`gitzen`](https://github.com/JorgeRosbel/gitzen) — AI-powered Git commit CLI
-> Tired of writing `fix stuff` as a commit message? Me too.  
-> Gitzen uses AI (Google Gemini + more) to generate meaningful, formatted commit messages automatically.  
-> `npm install -g gitzen` and never think about commits again.
-
-### [`hybrid-astro-ui`](https://github.com/JorgeRosbel/hybrid-astro-ui) — UI components for Astro, the right way
-> Zero-JS Astro components + progressive Web Components only where interactivity matters.  
-> Not a node_modules black box — you own the code. Copy, edit, ship.
-
-### [`http-sentinel`](https://github.com/JorgeRosbel/http-sentinel) — TypeScript HTTP error handling
-> A comprehensive set of typed HTTP error classes and utilities.  
-> Stop writing `if (status === 404)` everywhere.
-
-### [`NovaBoost`](https://github.com/JorgeRosbel/NovaBoost) — Astro 5 + Tailwind blog template
-> Free. SEO-optimized. JSON-LD baked in. Optional AI post generation.  
-> Launch your blog today, rank on Google tomorrow.
-
-### [`easy-consent`](https://github.com/JorgeRosbel/easy-consent) — GDPR cookie consent, lightweight
-> Because cookie banners shouldn't weigh 200kb.
-
----
+ ---
 
 ## 🤝 Let's build something
 
@@ -56,8 +108,6 @@ I'm open to:
 <div align="center">
 
 *"Good code is its own documentation — great code ships."*
-
-⭐️ **Star a repo if it saved you time. It means more than you think.**
 
 </div>
 
