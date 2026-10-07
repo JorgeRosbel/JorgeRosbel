@@ -9,7 +9,7 @@ Geophysical Engineer turned Web Developer — I bring systems thinking to the fr
 [![Portfolio](https://img.shields.io/badge/Portfolio-jorgedev.vercel.app-black?style=flat-square&logo=vercel)](https://jorgedev.vercel.app/es/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jorgerosbel-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/jorgerosbel)
 [![TikTok](https://img.shields.io/badge/TikTok-@jorgedevreact-000?style=flat-square&logo=tiktok)](https://www.tiktok.com/@jorgedevreact)
-[![Email](https://img.shields.io/badge/Email-jorgerosbel@proton.me-8B89CC?style=flat-square&logo=protonmail)](mailto:jorgerosbel@proton.me)
+[![Email](https://img.shields.io/badge/Email-jorgedevreact%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:jorgedevreact@gmail.com)
 
 </div>
 
